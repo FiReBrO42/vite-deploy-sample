@@ -1,0 +1,7 @@
+@import 'bootstrap/scss/bootstrap';
+
+// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
+@import "bootstrap/scss/functions";
+
+// 3. Include remainder of required Bootstrap stylesheets
+@import "./variables";
