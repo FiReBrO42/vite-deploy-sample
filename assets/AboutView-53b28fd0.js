@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as n,a as c}from"./index-3f262079.js";const _={mounted(){const e="這是產品中的環境",o="這是產品中的環境";console.log("1",e),console.log("3",o)}},a={class:"about"},r=c("h1",null,"This is an about page",-1),i=[r];function l(e,o,d,u,p,f){return s(),n("div",a,i)}const x=t(_,[["render",l]]);export{x as default};
